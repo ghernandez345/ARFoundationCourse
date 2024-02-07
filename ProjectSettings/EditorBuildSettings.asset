@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ARSessionAndTracking.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 101cefc27843f7c46a3b7c529ec44f02, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 6598cf4b96d2e0645bc5907859c92c44, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b17ea514e81e0dc4eb03fa4c8f19b37b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 112fa333d46aed84598a9764795471fe, type: 2}
